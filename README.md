@@ -304,3 +304,8 @@ describe("Handler", () => {
 
 ## 总结
 
+上面是我对一个需求应用TDD的简单实践，在实际开发过程中应用TDD是有一点成本的，TDD也不是银弹，是否使用TDD也需要根据项目的需求，人员构成等进行取舍。
+
+## 参考文献
+[Test-Driven Development(TDD) in Go](https://juejin.cn/post/6844903925842198536#heading-12)
+[测试驱动开发实践 - Test-Driven Development](https://www.cnblogs.com/zhq3051/p/4596049.html)
